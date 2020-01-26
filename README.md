@@ -1,7 +1,7 @@
 # verilog-cheat-sheet
 Cheat-sheet for Hardware Synthesis Lab subject
 
-# Prerequisite
+## Prerequisite
 Hardware : BASYS3
 Program  : Vivado
 Language : Verilog
